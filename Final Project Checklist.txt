@@ -1,0 +1,14 @@
+Final Project Checklist
+
+- Display the purpose and a set of instructions of how to play each of your three games before beginning to play the game (X)
+- Display a menu that includes options to play each of the three games one at a time (X)
+- Incorporate a way to “exit” out of the game and get back to the main menu (X)
+- Use at least one if-elif-else statement (X)
+- Use at least one loop (X)
+- Use a list somewhere (X)
+- Use multiple functions with docstrings (print(), input(), etc. count) (X)
+- Use at least one try-except block for user input validation (X)
+- Incorporate at least one thing beyond what is covered in the lectures (learn something new on your own), optional ()
+
+*Submit a working file to be graded both in class and submitted to the “Final Project” submission box with the project summary (Project Plan) and Reflection Summary attached
+
